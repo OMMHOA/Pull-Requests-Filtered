@@ -2,6 +2,7 @@
 
 An Azure DevOps dashboard widget that displays a configurable, filtered list of pull requests.
 Each widget tile on a dashboard can be independently configured with its own filter settings.
+Available in Azure Devops marketplace: https://marketplace.visualstudio.com/items?itemName=ommhoa.pull-requests-filtered
 
 ## Features
 
