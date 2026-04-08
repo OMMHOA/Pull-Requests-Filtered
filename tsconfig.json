@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "moduleResolution": "Node",
+    "sourceMap": false,
+    "rootDir": "scripts/",
+    "outDir": "dist/",
+    "target": "es6",
+    "lib": ["es6", "dom", "es2015"],
+    "jsx": "react",
+    "strictNullChecks": true
+  },
+  "exclude": [
+    "node_modules",
+  ]
+}
